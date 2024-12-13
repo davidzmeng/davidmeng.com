@@ -1,0 +1,11 @@
+table, th, td {
+    border:1px solid black;
+  }
+
+th, td {
+    padding: 5pt;
+}
+
+table td:nth-child(1) {
+    text-align: center;
+}
